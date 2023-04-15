@@ -16,6 +16,7 @@
 		CE24507A29E787860002A142 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE24507929E787860002A142 /* OnboardingView.swift */; };
 		CE24507C29E787BC0002A142 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE24507B29E787BC0002A142 /* HomeView.swift */; };
 		CE24508029E868560002A142 /* CircleGroupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE24507F29E868560002A142 /* CircleGroupView.swift */; };
+		CE442A2629EA0B4E00ECA1BD /* AudioPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE442A2529EA0B4E00ECA1BD /* AudioPlayer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		CE24507929E787860002A142 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		CE24507B29E787BC0002A142 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		CE24507F29E868560002A142 /* CircleGroupView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleGroupView.swift; sourceTree = "<group>"; };
+		CE442A2529EA0B4E00ECA1BD /* AudioPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioPlayer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 		CE24507729E784380002A142 /* Utilities */ = {
 			isa = PBXGroup;
 			children = (
+				CE442A2529EA0B4E00ECA1BD /* AudioPlayer.swift */,
 			);
 			path = Utilities;
 			sourceTree = "<group>";
@@ -193,6 +196,7 @@
 				CE24507C29E787BC0002A142 /* HomeView.swift in Sources */,
 				CE24506529E7789D0002A142 /* ContentView.swift in Sources */,
 				CE24506329E7789D0002A142 /* RestartApp.swift in Sources */,
+				CE442A2629EA0B4E00ECA1BD /* AudioPlayer.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
